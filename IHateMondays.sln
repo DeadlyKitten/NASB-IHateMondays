@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IHateMondays", "IHateMondays\IHateMondays.csproj", "{C6A19BE1-932B-40D2-8C86-DDB0BFD18F97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6A19BE1-932B-40D2-8C86-DDB0BFD18F97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6A19BE1-932B-40D2-8C86-DDB0BFD18F97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6A19BE1-932B-40D2-8C86-DDB0BFD18F97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6A19BE1-932B-40D2-8C86-DDB0BFD18F97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2ADC9616-E513-428E-ADC8-C449C70CE5E3}
+	EndGlobalSection
+EndGlobal
